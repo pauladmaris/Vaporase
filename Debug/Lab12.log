@@ -1,0 +1,9 @@
+﻿  Lab12.cpp
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\Exceptions.h(17,21): warning C4018: '<': signed/unsigned mismatch
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\Service.h(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UI.cpp
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\Exceptions.h(17,21): warning C4018: '<': signed/unsigned mismatch
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\Service.h(23,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\UI.cpp(149): warning C4715: 'UI::transform': not all control paths return a value
+  Lab12.vcxproj -> D:\OOP (semestrul 2, Anul 1)\___EXERCITII REZOLVATE__\Lab12\Debug\Lab12.exe
